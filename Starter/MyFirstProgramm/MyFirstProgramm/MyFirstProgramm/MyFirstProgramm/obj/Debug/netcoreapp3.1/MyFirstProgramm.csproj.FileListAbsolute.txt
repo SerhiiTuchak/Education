@@ -1,0 +1,4 @@
+D:\Education\Starter\MyFirstProgramm\MyFirstProgramm\MyFirstProgramm\MyFirstProgramm\obj\Debug\netcoreapp3.1\MyFirstProgramm.csprojAssemblyReference.cache
+D:\Education\Starter\MyFirstProgramm\MyFirstProgramm\MyFirstProgramm\MyFirstProgramm\obj\Debug\netcoreapp3.1\MyFirstProgramm.AssemblyInfoInputs.cache
+D:\Education\Starter\MyFirstProgramm\MyFirstProgramm\MyFirstProgramm\MyFirstProgramm\obj\Debug\netcoreapp3.1\MyFirstProgramm.AssemblyInfo.cs
+D:\Education\Starter\MyFirstProgramm\MyFirstProgramm\MyFirstProgramm\MyFirstProgramm\obj\Debug\netcoreapp3.1\MyFirstProgramm.csproj.CoreCompileInputs.cache
