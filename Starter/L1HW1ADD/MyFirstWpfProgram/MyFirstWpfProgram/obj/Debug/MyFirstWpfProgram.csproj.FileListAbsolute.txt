@@ -1,0 +1,5 @@
+D:\Education\Starter\L1HW1ADD\MyFirstWpfProgram\MyFirstWpfProgram\obj\Debug\MyFirstWpfProgram.csprojAssemblyReference.cache
+D:\Education\Starter\L1HW1ADD\MyFirstWpfProgram\MyFirstWpfProgram\obj\Debug\MainWindow.g.cs
+D:\Education\Starter\L1HW1ADD\MyFirstWpfProgram\MyFirstWpfProgram\obj\Debug\App.g.cs
+D:\Education\Starter\L1HW1ADD\MyFirstWpfProgram\MyFirstWpfProgram\obj\Debug\MyFirstWpfProgram_MarkupCompile.cache
+D:\Education\Starter\L1HW1ADD\MyFirstWpfProgram\MyFirstWpfProgram\obj\Debug\MyFirstWpfProgram_MarkupCompile.lref
